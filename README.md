@@ -1,1 +1,1 @@
-# odin-project-landing-page
+This is my first project following the Odin Project course
